@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-hw-cliapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KraRo16/goit-node-hw-CLIapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KraRo16/goit-node-hw-CLIapp/issues"
+  },
+  "homepage": "https://github.com/KraRo16/goit-node-hw-CLIapp#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13"
+  }
+}
